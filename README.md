@@ -27,9 +27,8 @@
 ![Uğurcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcanemare&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ugurcanemare&theme=default&hide_border=false)<br/>
 
-### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=ugurcanemare&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 [linkedin]: https://www.linkedin.com/in/ugurcan-emare/
 [mail]: ugurcan.emare@gmail.com
