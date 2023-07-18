@@ -24,7 +24,7 @@
 
 # 📊 GitHub Stats:
 
-![Uğurcan's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=ugurcanemare)
+![Uğurcan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ugurcanemare&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ugurcanemare&theme=default&hide_border=false)<br/>
 
 ### 🔝 Top Contributed Repo
